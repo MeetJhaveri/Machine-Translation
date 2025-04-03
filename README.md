@@ -8,7 +8,7 @@ This project implements a neural machine translation system that can translate t
 
 ### Architecture Visualization
 
-![Neural Machine Translation Architecture](./images/nmt_architecture.png)
+![Neural Machine Translation Architecture](https://github.com/MeetJhaveri/Machine-Translation/blob/master/architecture.png)
 
 *The image shows our neural machine translation model architecture. The left side represents the encoder processing German input ("guten morgen"), while the right side shows the decoder generating English output ("good morning"). The middle component (z) represents the attention mechanism that connects the encoder and decoder, allowing the model to focus on relevant parts of the input when generating each output word.*
 
