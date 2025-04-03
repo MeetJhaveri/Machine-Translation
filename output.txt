@@ -1,0 +1,338 @@
+Using device: cuda
+Downloading https://raw.githubusercontent.com/multi30k/dataset/master/data/task1/raw/train.de.gz...
+Extracting to data/train.de...
+Downloading https://raw.githubusercontent.com/multi30k/dataset/master/data/task1/raw/train.en.gz...
+Extracting to data/train.en...
+Downloading https://raw.githubusercontent.com/multi30k/dataset/master/data/task1/raw/val.de.gz...
+Extracting to data/val.de...
+Downloading https://raw.githubusercontent.com/multi30k/dataset/master/data/task1/raw/val.en.gz...
+Extracting to data/val.en...
+Downloading https://raw.githubusercontent.com/multi30k/dataset/master/data/task1/raw/test_2016_flickr.de.gz...
+Extracting to data/test.de...
+Downloading https://raw.githubusercontent.com/multi30k/dataset/master/data/task1/raw/test_2016_flickr.en.gz...
+Extracting to data/test.en...
+Train data size: 29000
+Validation data size: 1014
+Test data size: 1000
+Built German vocabulary with 7853 words
+Built English vocabulary with 5893 words
+
+[Epoch 1/20]
+=> Saving checkpoint
+Using device: cuda
+File data/train.de already exists, skipping download.
+File data/train.en already exists, skipping download.
+File data/val.de already exists, skipping download.
+File data/val.en already exists, skipping download.
+File data/test.de already exists, skipping download.
+File data/test.en already exists, skipping download.
+Train data size: 29000
+Validation data size: 1014
+Test data size: 1000
+Built German vocabulary with 7853 words
+Built English vocabulary with 5893 words
+
+[Epoch 1/20]
+=> Saving checkpoint
+Translated example sentence: 
+ track theater holing die ipod transit skills mittens started listening jenga clothesline de de factory sleds zune again mask monitors attempt civilians happening itself workbench michael circle prayer gun pleasant blanket safely holes they bedroom boxing judges podiums midair irish saying feathers barefoot overlook wands staying sheep limbs segway
+Epoch 1, Batch 0/907, Loss: 8.6903
+Epoch 1, Batch 100/907, Loss: 4.8324
+Epoch 1, Batch 200/907, Loss: 4.9562
+Epoch 1, Batch 300/907, Loss: 4.5101
+Epoch 1, Batch 400/907, Loss: 4.0979
+Epoch 1, Batch 500/907, Loss: 4.0298
+Epoch 1, Batch 600/907, Loss: 4.3449
+Epoch 1, Batch 700/907, Loss: 3.9694
+Epoch 1, Batch 800/907, Loss: 3.9668
+Epoch 1, Batch 900/907, Loss: 3.7495
+
+[Epoch 2/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a <unk> with a <unk> <unk> <unk> <unk> <unk> <unk> of a <unk> .
+Epoch 2, Batch 0/907, Loss: 4.1118
+Epoch 2, Batch 100/907, Loss: 3.7923
+Epoch 2, Batch 200/907, Loss: 3.7250
+Epoch 2, Batch 300/907, Loss: 3.6535
+Epoch 2, Batch 400/907, Loss: 3.3648
+Epoch 2, Batch 500/907, Loss: 3.3057
+Epoch 2, Batch 600/907, Loss: 3.3672
+Epoch 2, Batch 700/907, Loss: 3.5266
+Epoch 2, Batch 800/907, Loss: 3.2523
+Epoch 2, Batch 900/907, Loss: 3.0484
+
+[Epoch 3/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a worker with a <unk> is a a a a a a a of a . .
+Epoch 3, Batch 0/907, Loss: 2.7258
+Epoch 3, Batch 100/907, Loss: 2.7464
+Epoch 3, Batch 200/907, Loss: 2.8499
+Epoch 3, Batch 300/907, Loss: 3.3468
+Epoch 3, Batch 400/907, Loss: 3.0840
+Epoch 3, Batch 500/907, Loss: 2.9226
+Epoch 3, Batch 600/907, Loss: 3.0011
+Epoch 3, Batch 700/907, Loss: 2.7056
+Epoch 3, Batch 800/907, Loss: 3.1410
+Epoch 3, Batch 900/907, Loss: 3.0620
+
+[Epoch 4/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a worker with a <unk> is being by a large of a large body of water .
+Epoch 4, Batch 0/907, Loss: 2.2405
+Epoch 4, Batch 100/907, Loss: 2.8934
+Epoch 4, Batch 200/907, Loss: 2.7959
+Epoch 4, Batch 300/907, Loss: 2.8453
+Epoch 4, Batch 400/907, Loss: 2.6339
+Epoch 4, Batch 500/907, Loss: 2.8292
+Epoch 4, Batch 600/907, Loss: 3.0662
+Epoch 4, Batch 700/907, Loss: 2.3232
+Epoch 4, Batch 800/907, Loss: 2.5420
+Epoch 4, Batch 900/907, Loss: 2.5452
+
+[Epoch 5/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a worker with a men are being by a large large large boat with large water .
+Epoch 5, Batch 0/907, Loss: 2.4569
+Epoch 5, Batch 100/907, Loss: 2.5456
+Epoch 5, Batch 200/907, Loss: 2.1578
+Epoch 5, Batch 300/907, Loss: 2.1047
+Epoch 5, Batch 400/907, Loss: 2.1929
+Epoch 5, Batch 500/907, Loss: 2.0043
+Epoch 5, Batch 600/907, Loss: 2.2064
+Epoch 5, Batch 700/907, Loss: 2.0792
+Epoch 5, Batch 800/907, Loss: 2.6502
+Epoch 5, Batch 900/907, Loss: 2.6256
+
+[Epoch 6/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a man with a men are being pulled by by a large large of of water .
+Epoch 6, Batch 0/907, Loss: 2.1425
+Epoch 6, Batch 100/907, Loss: 2.1903
+Epoch 6, Batch 200/907, Loss: 1.8236
+Epoch 6, Batch 300/907, Loss: 2.1673
+Epoch 6, Batch 400/907, Loss: 2.2324
+Epoch 6, Batch 500/907, Loss: 1.8636
+Epoch 6, Batch 600/907, Loss: 2.1716
+Epoch 6, Batch 700/907, Loss: 1.8902
+Epoch 6, Batch 800/907, Loss: 2.0099
+Epoch 6, Batch 900/907, Loss: 2.3969
+
+[Epoch 7/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat with several men being pulled by by a large large of water .
+Epoch 7, Batch 0/907, Loss: 1.8908
+Epoch 7, Batch 100/907, Loss: 1.6684
+Epoch 7, Batch 200/907, Loss: 1.9508
+Epoch 7, Batch 300/907, Loss: 2.0736
+Epoch 7, Batch 400/907, Loss: 1.7716
+Epoch 7, Batch 500/907, Loss: 1.5826
+Epoch 7, Batch 600/907, Loss: 1.8271
+Epoch 7, Batch 700/907, Loss: 1.7646
+Epoch 7, Batch 800/907, Loss: 1.5121
+Epoch 7, Batch 900/907, Loss: 1.6588
+
+[Epoch 8/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat with several men are by by a large large wave .
+Epoch 8, Batch 0/907, Loss: 1.7774
+Epoch 8, Batch 100/907, Loss: 1.6134
+Epoch 8, Batch 200/907, Loss: 1.4471
+Epoch 8, Batch 300/907, Loss: 1.5358
+Epoch 8, Batch 400/907, Loss: 1.6520
+Epoch 8, Batch 500/907, Loss: 1.8340
+Epoch 8, Batch 600/907, Loss: 1.4139
+Epoch 8, Batch 700/907, Loss: 1.7535
+Epoch 8, Batch 800/907, Loss: 1.8771
+Epoch 8, Batch 900/907, Loss: 1.7506
+
+[Epoch 9/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat with several men are to by a large <unk> by large <unk> .
+Epoch 9, Batch 0/907, Loss: 1.2137
+Epoch 9, Batch 100/907, Loss: 1.2985
+Epoch 9, Batch 200/907, Loss: 1.0953
+Epoch 9, Batch 300/907, Loss: 1.3888
+Epoch 9, Batch 400/907, Loss: 1.2151
+Epoch 9, Batch 500/907, Loss: 1.0510
+Epoch 9, Batch 600/907, Loss: 1.3188
+Epoch 9, Batch 700/907, Loss: 1.3947
+Epoch 9, Batch 800/907, Loss: 1.1676
+Epoch 9, Batch 900/907, Loss: 1.6687
+
+[Epoch 10/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat with several men pulled to pulled from a large of of horses .
+Epoch 10, Batch 0/907, Loss: 1.2863
+Epoch 10, Batch 100/907, Loss: 1.0997
+Epoch 10, Batch 200/907, Loss: 0.9625
+Epoch 10, Batch 300/907, Loss: 1.1310
+Epoch 10, Batch 400/907, Loss: 1.0502
+Epoch 10, Batch 500/907, Loss: 0.9440
+Epoch 10, Batch 600/907, Loss: 1.1144
+Epoch 10, Batch 700/907, Loss: 0.9130
+Epoch 10, Batch 800/907, Loss: 1.2772
+Epoch 10, Batch 900/907, Loss: 1.3665
+
+[Epoch 11/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat with several men are pulled to pulled by a large of of horses .
+Epoch 11, Batch 0/907, Loss: 0.7410
+Epoch 11, Batch 100/907, Loss: 0.8531
+Epoch 11, Batch 200/907, Loss: 0.7345
+Epoch 11, Batch 300/907, Loss: 0.6823
+Epoch 11, Batch 400/907, Loss: 0.8612
+Epoch 11, Batch 500/907, Loss: 0.7203
+Epoch 11, Batch 600/907, Loss: 0.8591
+Epoch 11, Batch 700/907, Loss: 0.9251
+Epoch 11, Batch 800/907, Loss: 1.0512
+Epoch 11, Batch 900/907, Loss: 0.8977
+
+[Epoch 12/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men are pulled to <unk> by a large large wave .
+Epoch 12, Batch 0/907, Loss: 0.6673
+Epoch 12, Batch 100/907, Loss: 0.6354
+Epoch 12, Batch 200/907, Loss: 0.6253
+Epoch 12, Batch 300/907, Loss: 0.6582
+Epoch 12, Batch 400/907, Loss: 0.4916
+Epoch 12, Batch 500/907, Loss: 0.6128
+Epoch 12, Batch 600/907, Loss: 0.7810
+Epoch 12, Batch 700/907, Loss: 0.5552
+Epoch 12, Batch 800/907, Loss: 0.5863
+Epoch 12, Batch 900/907, Loss: 0.7585
+
+[Epoch 13/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat wearing several men are <unk> by by a large <unk> by horses .
+Epoch 13, Batch 0/907, Loss: 0.6193
+Epoch 13, Batch 100/907, Loss: 0.4449
+Epoch 13, Batch 200/907, Loss: 0.5880
+Epoch 13, Batch 300/907, Loss: 0.4339
+Epoch 13, Batch 400/907, Loss: 0.4707
+Epoch 13, Batch 500/907, Loss: 0.5323
+Epoch 13, Batch 600/907, Loss: 0.4519
+Epoch 13, Batch 700/907, Loss: 0.5685
+Epoch 13, Batch 800/907, Loss: 0.7673
+Epoch 13, Batch 900/907, Loss: 0.5632
+
+[Epoch 14/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men is pulled to shore by shore of a large shore .
+Epoch 14, Batch 0/907, Loss: 0.4538
+Epoch 14, Batch 100/907, Loss: 0.4730
+Epoch 14, Batch 200/907, Loss: 0.5590
+Epoch 14, Batch 300/907, Loss: 0.5528
+Epoch 14, Batch 400/907, Loss: 0.4726
+Epoch 14, Batch 500/907, Loss: 0.4385
+Epoch 14, Batch 600/907, Loss: 0.6460
+Epoch 14, Batch 700/907, Loss: 0.3445
+Epoch 14, Batch 800/907, Loss: 0.5050
+Epoch 14, Batch 900/907, Loss: 0.6437
+
+[Epoch 15/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men is pulled to shore by a large of horses .
+Epoch 15, Batch 0/907, Loss: 0.2834
+Epoch 15, Batch 100/907, Loss: 0.3789
+Epoch 15, Batch 200/907, Loss: 0.4461
+Epoch 15, Batch 300/907, Loss: 0.3105
+Epoch 15, Batch 400/907, Loss: 0.3351
+Epoch 15, Batch 500/907, Loss: 0.5229
+Epoch 15, Batch 600/907, Loss: 0.3272
+Epoch 15, Batch 700/907, Loss: 0.4393
+Epoch 15, Batch 800/907, Loss: 0.3999
+Epoch 15, Batch 900/907, Loss: 0.3990
+
+[Epoch 16/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several is pulled to shore by a large shore of horses .
+Epoch 16, Batch 0/907, Loss: 0.2513
+Epoch 16, Batch 100/907, Loss: 0.4550
+Epoch 16, Batch 200/907, Loss: 0.2214
+Epoch 16, Batch 300/907, Loss: 0.2287
+Epoch 16, Batch 400/907, Loss: 0.2334
+Epoch 16, Batch 500/907, Loss: 0.3014
+Epoch 16, Batch 600/907, Loss: 0.2984
+Epoch 16, Batch 700/907, Loss: 0.2976
+Epoch 16, Batch 800/907, Loss: 0.1629
+Epoch 16, Batch 900/907, Loss: 0.3153
+
+[Epoch 17/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men are pulled to shore by a large shore of horses .
+Epoch 17, Batch 0/907, Loss: 0.1486
+Epoch 17, Batch 100/907, Loss: 0.1823
+Epoch 17, Batch 200/907, Loss: 0.3034
+Epoch 17, Batch 300/907, Loss: 0.1394
+Epoch 17, Batch 400/907, Loss: 0.1979
+Epoch 17, Batch 500/907, Loss: 0.5268
+Epoch 17, Batch 600/907, Loss: 0.2350
+Epoch 17, Batch 700/907, Loss: 0.1865
+Epoch 17, Batch 800/907, Loss: 0.3570
+Epoch 17, Batch 900/907, Loss: 0.2609
+
+[Epoch 18/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men is pulled to shore by a large shore of horses .
+Epoch 18, Batch 0/907, Loss: 0.2480
+Epoch 18, Batch 100/907, Loss: 0.1353
+Epoch 18, Batch 200/907, Loss: 0.2615
+Epoch 18, Batch 300/907, Loss: 0.1449
+Epoch 18, Batch 400/907, Loss: 0.2157
+Epoch 18, Batch 500/907, Loss: 0.1490
+Epoch 18, Batch 600/907, Loss: 0.2031
+Epoch 18, Batch 700/907, Loss: 0.1051
+Epoch 18, Batch 800/907, Loss: 0.1561
+Epoch 18, Batch 900/907, Loss: 0.3372
+
+[Epoch 19/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men is pulled to shore by a large team of horses .
+Epoch 19, Batch 0/907, Loss: 0.0787
+Epoch 19, Batch 100/907, Loss: 0.1842
+Epoch 19, Batch 200/907, Loss: 0.1252
+Epoch 19, Batch 300/907, Loss: 0.2262
+Epoch 19, Batch 400/907, Loss: 0.1849
+Epoch 19, Batch 500/907, Loss: 0.1809
+Epoch 19, Batch 600/907, Loss: 0.1335
+Epoch 19, Batch 700/907, Loss: 0.1638
+Epoch 19, Batch 800/907, Loss: 0.3645
+Epoch 19, Batch 900/907, Loss: 0.1635
+
+[Epoch 20/20]
+=> Saving checkpoint
+Translated example sentence: 
+ a boat carrying several men is pulled to shore by a large team of horses .
+Epoch 20, Batch 0/907, Loss: 0.2580
+Epoch 20, Batch 100/907, Loss: 0.1544
+Epoch 20, Batch 200/907, Loss: 0.0998
+Epoch 20, Batch 300/907, Loss: 0.1018
+Epoch 20, Batch 400/907, Loss: 0.1317
+Epoch 20, Batch 500/907, Loss: 0.0944
+Epoch 20, Batch 600/907, Loss: 0.0781
+Epoch 20, Batch 700/907, Loss: 0.1306
+Epoch 20, Batch 800/907, Loss: 0.1146
+Epoch 20, Batch 900/907, Loss: 0.1279
+
+Calculating BLEU score...
+BLEU score: 22.15
+=> Saving trained model
+Training complete!
